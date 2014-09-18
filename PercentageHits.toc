@@ -1,0 +1,13 @@
+## Interface: 50400
+## Title: PercentageHits
+## Notes: Noxxy
+## Author: @project-author@
+## Version: @project-version@
+## SavedVariablesPerCharacter: PercentageHits
+## X-Website: http://fluxflashor.net/
+## X-Email: Robert@Fluxflashor.net
+## X-Category: Combat
+
+lib\tekKonfigAboutPanel.lua
+
+Core.lua
